@@ -66,3 +66,14 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+Jackson, C. 2019. [When It Makes Sense to Experiment on Students — or “The Zone of RCTs”.](https://aheadoftheheard.org/experimental-economists-just-got-the-nobel-prize-should-education-policy-use-more-experiments-too/)
+
+Jackson, C. 2019. [Correlation is Not Causation and Other Boring but Important Cautions for Interpreting Education Research.](https://aheadoftheheard.org/correlation-is-not-causation-and-other-boring-but-important-cautions-for-interpreting-education-research/)
+
+Jackson, C., Gotwals, A., & Tarasawa, B. 2017. [Formative Assessment: Evidence-Based or Oversold?](https://www.assessmenteducation.org/blog/formative-assessment-evidence-based-oversold/)
+
+Jackson, C. 2015. [The Magic of Multiple Measures.](http://www.shankerinstitute.org/blog/magic-multiple-measures) 
+
+Jackson, C. 2015. [Research on Teacher Evaluation Metrics: The Weaponization of Correlations.](http://www.shankerinstitute.org/blog/research-teacher-evaluation-metrics-weaponization-correlations)
+
