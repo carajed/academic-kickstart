@@ -71,7 +71,7 @@ email: ""
 # user_groups:
 # - Researchers
 # - Visitors
-# ---
+---
 
 Cara Jackson conducts research and evaluation in PreK-12 education. She has experience evaluating programs for school districts and networks, developing and refining teacher evaluation systems as the Assistant Director of Research and Evaluation for Urban Teachers, and conducting studies of federal education policy as a senior analyst at the U.S. Government Accountability Office. Earlier in her career, Cara taught preschool and kindergarten in New York City.
 
