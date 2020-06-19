@@ -82,8 +82,5 @@ The [What Works Clearinghouse](https://ies.ed.gov/ncee/wwc/) reviews the existin
 
 [Urban Institute's](https://educationdata.urban.org/data-explorer/) Education Data Explorer makes it easy to access and analyze the education data.
 
-My regular reads include:
-[Brookings' Brown Center Chalkboard](https://www.brookings.edu/blog/brown-center-chalkboard/) features blog posts from a variety of education researchers
-[Chalkbeat](https://www.chalkbeat.org/) has great journalism on education
-[EducationNext](https://www.educationnext.org/) has podcasts as well as articles by researchers
+My regular reads include [Brookings' Brown Center Chalkboard](https://www.brookings.edu/blog/brown-center-chalkboard/) for blog posts from a variety of education researchers, [Chalkbeat](https://www.chalkbeat.org/) for great journalism on education issues, and [EducationNext](https://www.educationnext.org/), which has podcasts as well as relatively brief summaries of research. 
 
