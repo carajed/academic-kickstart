@@ -70,5 +70,5 @@ email: ""
 # - Visitors
 ---
 
-I conduct education research and evaluation on a variety of topics, including school network expansion, policies related to school and teacher quality, and education interventions intended to improve student outcomes. My focus is on helping school districts, charter management organizations, and nonprofit organizations continuously improve the quality of educational opportunities. I also teach research methods at [American University](https://www.american.edu/soe/policy/faculty.cfm). Earlier in my career, I taught preschool and kindergarten in New York City.
+I conduct education research and evaluation on a variety of topics, including school network expansion, policies related to school and teacher quality, and education interventions intended to improve student outcomes. My focus is on helping school districts, charter management organizations, and nonprofit organizations improve the quality of educational opportunities. I also teach research methods at [American University](https://www.american.edu/soe/policy/faculty.cfm). Earlier in my career, I taught preschool and kindergarten in New York City.
 
