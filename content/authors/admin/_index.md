@@ -9,14 +9,14 @@ authors:
 # Is this the primary user of the site?
 superuser: true
 
+# Role/position
+role: Associate Partner
+
 # Organizations/Affiliations
-organizations: 
-- name: Bellwether Education Partners
+organizations:
+- name: Bellwether Education Partners 
   url: "https://bellwethereducation.org/staff/cara-jackson"
   
-- name: American University
-   url: "https://www.american.edu/soe/policy/faculty.cfm"
- 
 # Short bio (displayed in user profile at end of posts)
 bio: I am interested in the use of evidence to inform education policies and practices. 
 
@@ -70,5 +70,5 @@ email: ""
 # - Visitors
 ---
 
-I conduct research and evaluation in PreK-12 education settings. I have experience evaluating programs for school districts and charter management organizations, have developed and refined teacher evaluation systems, and conducted studies of federal education policy. Earlier in my career, I taught preschool and kindergarten in New York City.
+I conduct education research and evaluation on a variety of topics, including school network expansion, policies related to school and teacher quality, and education interventions intended to improve student outcomes. My focus is on helping school districts, charter management organizations, and nonprofit organizations continuously improve the quality of educational opportunities. I also teach research methods at [American University](https://www.american.edu/soe/policy/faculty.cfm). Earlier in my career, I taught preschool and kindergarten in New York City.
 
