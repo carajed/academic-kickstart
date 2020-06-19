@@ -9,14 +9,14 @@ authors:
 # Is this the primary user of the site?
 superuser: true
 
-# Organizations
+# Organizations/Affiliations
 organizations: 
 - name: Bellwether Education Partners
-- url: "https://bellwethereducation.org/staff/cara-jackson"
+  url: "https://bellwethereducation.org/staff/cara-jackson"
   
- - name: American University
- - url: "https://www.american.edu/soe/policy/faculty.cfm"
-
+- name: American University
+   url: "https://www.american.edu/soe/policy/faculty.cfm"
+ 
 # Short bio (displayed in user profile at end of posts)
 bio: I am interested in the use of evidence to inform education policies and practices. 
 
