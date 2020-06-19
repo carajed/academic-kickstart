@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = ""
   date_end = ""
-  description = "The mission of the Strategic Data Project is to transform the use of data in education to improve student achievement. SDP helps educational organizations by bringing together data leaders, giving them the right tools, and training them to take on ambitious data projects to make impactful decisions."
+  description = """The mission of the Strategic Data Project is to transform the use of data in education to improve student achievement. SDP helps educational organizations by bringing together data leaders, giving them the right tools, and training them to take on ambitious data projects to make impactful decisions."""
 
 [[item]]
   organization = "Emerging Education Policy Scholars"
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = ""
   date_end = ""
-  description = "The EEPS program seeks to counter the long-standing, well-documented divide between research and policy in education by connecting early-career scholars wtih education-policy experts."
+  description = """The EEPS program seeks to counter the long-standing, well-documented divide between research and policy in education by connecting early-career scholars wtih education-policy experts."""
   
 [[item]]
   organization = "CALDER Policymakers Council"
@@ -46,7 +46,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = ""
   date_end = ""
-  description = "The National Center for Analysis of Longitudinal Data in Education Research (CALDER) conducts fantastic policy-relevant research. The Policymakers Council supports this work by providing insight on the needs of policymakers."
+  description = """The National Center for Analysis of Longitudinal Data in Education Research (CALDER) conducts fantastic policy-relevant research. The Policymakers Council supports this work by providing insight on the needs of policymakers."""
   
   [[item]]
   organization = "4.0 Schools Measurement & Evaluation Collaborative"
@@ -56,7 +56,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = ""
   date_end = ""
-  description = "4.0 Schools provides fellowships to support people in piloting and testing ideas to make education better in the United States. The Visiting Scholars support this work by providing coaching and feedback on measures of progress."
+  description = """4.0 Schools provides fellowships to support people in piloting and testing ideas to make education better in the United States. The Visiting Scholars support this work by providing coaching and feedback on measures of progress."""
 
 
 +++
