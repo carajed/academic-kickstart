@@ -71,7 +71,7 @@ subtitle = ""
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
 
-Carinci, J., Meyer, S. & Jackson, C., eds. (2020) Linking Teacher Preparation Program Design and Implementation to Outcomes for Teachers and Students. IAP Book Series. 
+Carinci, J., Meyer, S. & Jackson, C., eds. (2020) [Linking Teacher Preparation Program Design and Implementation to Outcomes for Teachers and Students.](https://www.infoagepub.com/products/Linking-Teacher-Preparation-Program-Design-and-Implementation-to-Outcomes-for-Teachers-and-Students) IAP Book Series. 
 
-Tarasawa, B., Gotwals, A.W., & Jackson, C., eds. (2020) Assessment Education: Bridging Research, Theory, and Practice to Promote Equity and Student Learning. Rowman & Littlefield.
+Tarasawa, B., Gotwals, A.W., & Jackson, C., eds. (2020) [Assessment Education: Bridging Research, Theory, and Practice to Promote Equity and Student Learning.](https://rowman.com/ISBN/9781475851069/Assessment-Education-Bridging-Research-Theory-and-Practice-to-Promote-Equity-and-Student-Learning) Rowman & Littlefield.
 
