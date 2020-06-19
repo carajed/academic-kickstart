@@ -290,3 +290,9 @@ plugins_js  = []
 [cms]
   # See https://sourcethemes.com/academic/docs/install/#install-with-web-browser
   netlify_cms = true
+ 
+ # CV link 
+[[params.social]]  
+icon="cv"
+icon_pack="ai"
+link="https://drive.google.com/file/d/1Fy2qCI1LqfYTfgsMAdTO7LmWq8QL3MPC/view?usp=sharing"
