@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Connecting Research & Practice in Education"
 subtitle = ""
 
 # Date format
@@ -19,33 +19,44 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "Strategic Data Project"
+  organization_url = "https://sdp.cepr.harvard.edu/home"
+  title = "Data Fellow"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = ""
+  date_start = ""
   date_end = ""
-  description = ""
+  description = "The mission of the Strategic Data Project is to transform the use of data in education to improve student achievement. SDP helps educational organizations by bringing together data leaders, giving them the right tools, and training them to take on ambitious data projects to make impactful decisions."
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "Emerging Education Policy Scholars"
+  organization_url = "https://fordhaminstitute.org/national/eeps"
+  title = ""
+  url = ""
+  certificate_url = ""
+  date_start = ""
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = "The EEPS program seeks to counter the long-standing, well-documented divide between research and policy in education by connecting early-career scholars wtih education-policy experts."
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "CALDER Policymakers Council"
+  organization_url = "https://caldercenter.org/experts"
+  title = ""
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  certificate_url = ""
+  date_start = ""
+  date_end = ""
+  description = "The National Center for Analysis of Longitudinal Data in Education Research (CALDER) conducts fantastic policy-relevant research. The Policymakers Council supports this work by providing insight on the needs of policymakers."
+  
+  [[item]]
+  organization = "4.0 Schools Measurement & Evaluation Collaborative"
+  organization_url = "https://collaborative.4pt0.org/about"
+  title = ""
+  url = ""
+  certificate_url = ""
+  date_start = ""
+  date_end = ""
+  description = "4.0 Schools provides fellowships to support people in piloting and testing ideas to make education better in the United States. The Visiting Scholars support this work by providing coaching and feedback on measures of progress."
+
 
 +++
