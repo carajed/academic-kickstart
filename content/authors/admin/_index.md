@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Cara Jackson
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Associate Partner & Adjunct Lecturer
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Bellwether Education Partners
+  url: "https://bellwethereducation.org/staff/cara-jackson"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am interested in the use of evidence to inform education policies and practices. 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Education policy
+- Teacher preparation 
+- School and teacher quality
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Education Policy
+    institution: University of Maryland
+    year: 2014
+  - course: EdM in Education 
+    institution: Harvard Graduate School of Education
+    year: 2001
+  - course: BA in Psychology & Sociology 
+    institution: Rutgers University 
+    year: 2000
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -65,11 +65,10 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
----
+# user_groups:
+# - Researchers
+# - Visitors
+# ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Cara Jackson conducts research and evaluation in PreK-12 education. She has experience evaluating programs for school districts and networks, developing and refining teacher evaluation systems as the Assistant Director of Research and Evaluation for Urban Teachers, and conducting studies of federal education policy as a senior analyst at the U.S. Government Accountability Office. Earlier in her career, Cara taught preschool and kindergarten in New York City.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
