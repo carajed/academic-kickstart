@@ -9,15 +9,12 @@ authors:
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position
-role: Associate Partner & Adjunct Lecturer
-
-# Organizations/Affiliations
-organizations:
-- name: Bellwether Education Partners
+# Organizations/role
+organizations: 
+- name: Associate Partner at Bellwether Education Partners
   url: "https://bellwethereducation.org/staff/cara-jackson"
-
-- name: American University 
+  
+ - name: Adjunct Lecturer at American University
   url: "https://www.american.edu/soe/policy/faculty.cfm"
 
 # Short bio (displayed in user profile at end of posts)
@@ -73,5 +70,5 @@ email: ""
 # - Visitors
 ---
 
-Cara Jackson conducts research and evaluation in PreK-12 education. She has experience evaluating programs for school districts and networks, developing and refining teacher evaluation systems as the Assistant Director of Research and Evaluation for Urban Teachers, and conducting studies of federal education policy as a senior analyst at the U.S. Government Accountability Office. Earlier in her career, Cara taught preschool and kindergarten in New York City.
+I conduct research and evaluation in PreK-12 education settings. I have experience evaluating programs for school districts and charter management organizations, have developed and refined teacher evaluation systems, and conducted studies of federal education policy. Earlier in my career, I taught preschool and kindergarten in New York City.
 
