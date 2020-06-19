@@ -16,6 +16,9 @@ role: Associate Partner & Adjunct Lecturer
 organizations:
 - name: Bellwether Education Partners
   url: "https://bellwethereducation.org/staff/cara-jackson"
+"
+- name: American University 
+  url: "https://www.american.edu/soe/policy/faculty.cfm"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am interested in the use of evidence to inform education policies and practices. 
@@ -44,16 +47,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:carajed@gmail.org'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/cara__jackson
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.com/citations?user=3Y3MIFYAAAAJ&hl=en
+# - icon: github
+  # icon_pack: fab
+  # link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
