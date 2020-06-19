@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Projects"
+title = "Resources to support the use of evidence in education decision-making"
 subtitle = ""
 
 [content]
@@ -75,3 +75,4 @@ subtitle = ""
  css_class = ""
 +++
 
+[Open SDP](https://opensdp.github.io/) Provides data, analyses and tutorials for every stage of the analytic cycle, from preparing and standardizing your data, to conducting analyses and producing visualizations.
