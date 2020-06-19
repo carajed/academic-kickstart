@@ -16,7 +16,7 @@ role: Associate Partner & Adjunct Lecturer
 organizations:
 - name: Bellwether Education Partners
   url: "https://bellwethereducation.org/staff/cara-jackson"
-"
+
 - name: American University 
   url: "https://www.american.edu/soe/policy/faculty.cfm"
 
