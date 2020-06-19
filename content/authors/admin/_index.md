@@ -25,7 +25,7 @@ interests:
 - Teacher preparation 
 - School and teacher quality
 
-education:
+education: 
   courses:
   - course: PhD in Education Policy
     institution: University of Maryland
