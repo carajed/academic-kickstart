@@ -11,10 +11,10 @@ superuser: true
 
 # Organizations/role
 organizations: 
-- name: Associate Partner at Bellwether Education Partners
+- name: Bellwether Education Partners
   url: "https://bellwethereducation.org/staff/cara-jackson"
   
- - name: Adjunct Lecturer at American University
+ - name: American University
   url: "https://www.american.edu/soe/policy/faculty.cfm"
 
 # Short bio (displayed in user profile at end of posts)
