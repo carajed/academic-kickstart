@@ -51,7 +51,7 @@ date_format = "Jan 2006"
   [[item]]
   organization = "4.0 Schools"
   organization_url = "https://collaborative.4pt0.org/about"
-  title = "Measurement & Evaluation Collaborative"
+  title = "Visiting Scholar, Measurement & Evaluation Collaborative"
   url = ""
   certificate_url = ""
   date_start = "2019-12-01" 
