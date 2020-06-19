@@ -74,5 +74,16 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+I sometimes get asked for resources to support the use of research and evidence in education. These are few I've found useful:
 
-[Open SDP](https://opensdp.github.io/) Provides data, analyses and tutorials for every stage of the analytic cycle, from preparing and standardizing your data, to conducting analyses and producing visualizations.
+[Open SDP](https://opensdp.github.io/) provides data, analyses and tutorials for every stage of the analytic cycle, from preparing and standardizing your data, to conducting analyses and producing visualizations.
+
+The [What Works Clearinghouse](https://ies.ed.gov/ncee/wwc/) reviews the existing research on different programs, products, practices, and policies in education.
+
+[Urban Institute's](https://educationdata.urban.org/data-explorer/) Education Data Explorer makes it easy to access and analyze the education data.
+
+My regular reads include:
+[Brookings' Brown Center Chalkboard](https://www.brookings.edu/blog/brown-center-chalkboard/) features blog posts from a variety of education researchers
+[Chalkbeat](https://www.chalkbeat.org/) has great journalism on education
+[EducationNext](https://www.educationnext.org/) has podcasts as well as articles by researchers
+
