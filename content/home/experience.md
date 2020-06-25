@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Rethinking School Evaluation with Cara Jackson"
   company = "Education Policy Weekly with John Phillips"
-  company_url = "https://open.spotify.com/episode/5cJvUF2bW70AEwRTV7STeP"
+  company_url = "open.spotify.com/episode/5cJvUF2bW70AEwRTV7STeP"
   location = ""
   date_start = "2020-06-24"
   date_end = ""
