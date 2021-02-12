@@ -71,7 +71,7 @@ Jackson, C. 2019. [When It Makes Sense to Experiment on Students — or “The Z
 
 Jackson, C. 2019. [Correlation is Not Causation and Other Boring but Important Cautions for Interpreting Education Research.](https://aheadoftheheard.org/correlation-is-not-causation-and-other-boring-but-important-cautions-for-interpreting-education-research/)
 
-Jackson, C. 2019. [Why Is There a Disconnect Between Research and Practice and What Can Be Done About It?](https://aheadoftheheard.org/why-is-there-a-disconnect-between-research-and-practice-and-what-can-be-done-about-it/)
+Jackson, C. 2019. [Why Is There a Disconnect Between Research and Practice and What Can Be Done About It?.](https://aheadoftheheard.org/why-is-there-a-disconnect-between-research-and-practice-and-what-can-be-done-about-it/)
 
 Jackson, C. 2015. [The Magic of Multiple Measures.](http://www.shankerinstitute.org/blog/magic-multiple-measures) 
 
