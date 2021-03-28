@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Partner
+role: Research & Evaluation
 
 # Organizations/Affiliations
 organizations:
-- name: Bellwether Education Partners 
-  url: "https://bellwethereducation.org/staff/cara-jackson"
+- name: 
+  url: 
   
 # Short bio (displayed in user profile at end of posts)
 bio: I am interested in the use of evidence to inform education policies and practices. 
