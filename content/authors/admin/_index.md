@@ -70,5 +70,5 @@ email: ""
 # - Visitors
 ---
 
-I conduct education research and evaluation on a variety of topics, including school network expansion, policies related to school and teacher quality, and education interventions intended to improve student outcomes. My focus is on helping school districts, charter management organizations, and nonprofit organizations improve the quality of educational opportunities. I also teach Economic Inquiry in Education at [American University](https://www.american.edu/soe/policy/faculty.cfm). Earlier in my career, I taught preschool and kindergarten in New York City.
+As a Senior Associate in the Division of Social and Economic Policy at [Abt Associates](https://www.abtassociates.com/who-we-are), I conduct education research and evidence reviews on a variety of topics, including interventions intended to improve child outcomes, policies related to school and teacher quality, and school network expansion. My focus is on helping schools, districts, and education agencies improve the quality of educational opportunities. I also teach Economic Inquiry in Education at [American University](https://www.american.edu/soe/policy/faculty.cfm). Earlier in my career, I taught preschool and kindergarten in New York City.
 
