@@ -67,7 +67,7 @@ subtitle = ""
  css_class = ""
 +++
 
-Jackson, C. (2021). [Democratizing the Development of Evidence.] (https://journals.sagepub.com/doi/full/10.3102/0013189X211060357) Educational Researcher. First published 
+Jackson, C. (2021) [Democratizing the Development of Evidence.] (https://journals.sagepub.com/doi/full/10.3102/0013189X211060357) Educational Researcher. First published 
 November 19, 2021.
 
 Tarasawa, B., Gotwals, A.W., & Jackson, C., eds. (2020) [Assessment Education: Bridging Research, Theory, and Practice to Promote Equity and Student Learning.](https://rowman.com/ISBN/9781475851069/Assessment-Education-Bridging-Research-Theory-and-Practice-to-Promote-Equity-and-Student-Learning) Rowman & Littlefield.
