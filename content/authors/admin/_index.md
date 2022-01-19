@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:carajed@gmail.org'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:carajed@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/cara__jackson
