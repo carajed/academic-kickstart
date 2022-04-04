@@ -4,10 +4,10 @@
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = false  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
-title = "Recent & Upcoming Talks"
+title = "Podcasts"
 subtitle = ""
 
 [content]
@@ -63,7 +63,7 @@ subtitle = ""
   
 [advanced]
  # Custom CSS. 
- css_style = ""
+ css_style = "The Rules Come From Somewhere on Donuts in the Lounge: A Podcast for Educators"
  
  # CSS class.
  css_class = ""
