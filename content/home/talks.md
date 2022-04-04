@@ -4,7 +4,7 @@
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = false  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
 title = "Podcasts"
@@ -32,7 +32,7 @@ subtitle = ""
     exclude_featured = false
     exclude_past = false
     exclude_future = false
-    
+   
 [design]
   # Toggle between the various page layout types.
   #   1 = List
@@ -63,9 +63,8 @@ subtitle = ""
   
 [advanced]
  # Custom CSS. 
+ css_style = ""
 
- 
-[[item]] organization = "Donuts in the Lounge: A Podcast for Educators" organization_url = "https://podcasts.apple.com/us/podcast/the-rules-come-from-somewhere-with-dr-cara-jackson/id1610942852?i=1000554854264" title = "The Rules Come From Somewhere" url = "" certificate_url = "" date_start = "March 2022" date_end = "" description = """In this episode, I join host Ryan Estrellado to discuss education policy, accountability systems, and what kinds of data educators might find useful for instruction."""
  
  # CSS class.
  css_class = ""
