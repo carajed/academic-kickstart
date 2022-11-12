@@ -41,7 +41,7 @@ education:
 social:
 - icon: mastodon
   icon_pack: fab
-  link: https://mastodon.social/@cara__jackson
+  link: <a rel="me" href="https://mastodon.social/@cara__jackson">Mastodon</a>
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/cara__jackson
