@@ -44,9 +44,6 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:carajed@gmail.com'  # For a direct email link, use "mailto:test@example.org".
-- icon: fa-mastodon
-  icon_pack: fa-brands
   link: <a rel="me" href="https://mastodon.social/@cara__jackson">Mastodon</a>
 - icon: twitter
   icon_pack: fab
