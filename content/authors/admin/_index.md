@@ -29,13 +29,10 @@ education:
   courses:
   - course: PhD in Education Policy
     institution: University of Maryland
-  
   - course: EdM in Education 
-    institution: Harvard Graduate School of Education
-  
+    institution: Harvard Graduate School of Education 
   - course: BA in Psychology & Sociology 
     institution: Rutgers University 
- 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
