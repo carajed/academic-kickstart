@@ -29,13 +29,13 @@ education:
   courses:
   - course: PhD in Education Policy
     institution: University of Maryland
-    year: 2014
+  
   - course: EdM in Education 
     institution: Harvard Graduate School of Education
-    year: 2001
+  
   - course: BA in Psychology & Sociology 
     institution: Rutgers University 
-    year: 2000
+ 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,6 +45,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:carajed@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+- icon: mastodon
+  icon_pack: fab
+  link: @cara__jackson@mastodon.social
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/cara__jackson
