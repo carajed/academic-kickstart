@@ -66,6 +66,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+About Practice (August 2022). [Democratizing the Development of Evidence](https://podcasts.apple.com/us/podcast/about-practice/id1551513754?i=1000576155382) 
 
 Donuts in the Lounge: A Podcast for Educators (March 2022). [The Rules Come From Somewhere](https://podcasts.apple.com/us/podcast/the-rules-come-from-somewhere-with-dr-cara-jackson/id1610942852?i=1000554854264) 
 
