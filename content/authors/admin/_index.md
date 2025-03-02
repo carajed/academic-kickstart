@@ -70,5 +70,5 @@ email: ""
 # - Visitors
 ---
 
-I've conducted education research and evidence reviews on a variety of topics, including interventions intended to improve child outcomes, policies related to school and teacher quality, and school network expansion. My focus is on helping schools, districts, and education agencies improve the quality of educational opportunities. I also teach Economic Inquiry in Education at [American University](https://www.american.edu/soe/policy/faculty.cfm). Earlier in my career, I taught preschool and kindergarten in New York City.
+My focus is on helping schools, districts, and education agencies improve the quality of educational opportunities. I've conducted education research and evidence reviews on a variety of topics, including interventions intended to improve student outcomes, policies related to school and teacher quality, and teacher preparation. I also teach Economic Inquiry in Education at [American University](https://www.american.edu/soe/policy/faculty.cfm). Earlier in my career, I taught preschool and kindergarten in New York City.
 
