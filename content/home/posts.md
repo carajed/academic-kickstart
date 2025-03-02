@@ -67,9 +67,9 @@ subtitle = ""
  css_class = ""
 +++
 
-Jackson, C. (2023). [Do Year-Round Schools Work? Three Questions to Ask] (https://www.abtassociates.com/insights/perspectives-blog/do-year-round-schools-work-three-questions-to-ask) Abt Associates
+Jackson, C., Bassok, D., Boulay, B., Kurlaender, M., Page, L. & Tipton, E. (2025). [Cutting research funding would make education less effective and efficient](https://www.brookings.edu/articles/cutting-research-funding-would-make-education-less-effective-and-efficient/) Brookings
 
-Jackson, C. & Caswell, L. (2021, Dec 2). [Build Back Better Provides Opportunities for Improving Teacher Preparation (https://www.abtassociates.com/insights/perspectives-blog/build-back-better-provides-opportunities-for-improving-teacher) Abt Associates
+Jackson, C. (2023). [Do Year-Round Schools Work? Three Questions to Ask] (https://www.abtassociates.com/insights/perspectives-blog/do-year-round-schools-work-three-questions-to-ask) Abt Associates
 
 Jackson, C., Harrison, C., Pullen, K.R., & Lowenstein, C. (2021, May 24). [What Education Researchers Can Learn From Teachers](https://www.edweek.org/teaching-learning/opinion-what-education-researchers-can-learn-from-teachers/2021/05) Education Week: Classroom Q & A with Larry Ferlazzo.  
 
