@@ -69,17 +69,17 @@ subtitle = ""
 
 Jackson, C., Bassok, D., Boulay, B., Kurlaender, M., Page, L. & Tipton, E. (2025). [Cutting research funding would make education less effective and efficient](https://www.brookings.edu/articles/cutting-research-funding-would-make-education-less-effective-and-efficient/) Brookings
 
-Jackson, C. (2023). [Do Year-Round Schools Work? Three Questions to Ask] (https://www.abtassociates.com/insights/perspectives-blog/do-year-round-schools-work-three-questions-to-ask) Abt Associates
+Jackson, C. (2023). [Do Year-Round Schools Work? Three Questions to Ask](https://www.abtassociates.com/insights/perspectives-blog/do-year-round-schools-work-three-questions-to-ask) Abt Associates
 
 Jackson, C., Harrison, C., Pullen, K.R., & Lowenstein, C. (2021, May 24). [What Education Researchers Can Learn From Teachers](https://www.edweek.org/teaching-learning/opinion-what-education-researchers-can-learn-from-teachers/2021/05) Education Week: Classroom Q & A with Larry Ferlazzo.  
 
 Jackson, C., Pershan, M., & Woulfin, S. (2021, May 25). [‘There’s a Lot of Potential Learning From Teachers Waiting to Happen’](https://www.edweek.org/teaching-learning/opinion-theres-a-lot-of-potential-learning-from-teachers-waiting-to-happen/2021/05) Education Week: Classroom Q & A with Larry Ferlazzo. 
 
-Jackson, C. 2019. [When It Makes Sense to Experiment on Students — or “The Zone of RCTs”] (http://web.archive.org/web/20200105170203/https://aheadoftheheard.org/experimental-economists-just-got-the-nobel-prize-should-education-policy-use-more-experiments-too/)
+Jackson, C. 2019. [When It Makes Sense to Experiment on Students — or “The Zone of RCTs”](http://web.archive.org/web/20200105170203/https://aheadoftheheard.org/experimental-economists-just-got-the-nobel-prize-should-education-policy-use-more-experiments-too/)
 
-Jackson, C. 2029 [Teacher Residencies Can Translate into a More Diverse Workforce, But Who Will Bear the Expenses?] (http://web.archive.org/web/20191209171706/https://aheadoftheheard.org/teacher-residencies-can-translate-into-a-more-diverse-workforce-but-who-will-bear-the-expenses/)
+Jackson, C. 2029 [Teacher Residencies Can Translate into a More Diverse Workforce, But Who Will Bear the Expenses?](http://web.archive.org/web/20191209171706/https://aheadoftheheard.org/teacher-residencies-can-translate-into-a-more-diverse-workforce-but-who-will-bear-the-expenses/)
 
-Jackson, C. 2019. [Correlation is Not Causation and Other Boring but Important Cautions for Interpreting Education Research] (http://web.archive.org/web/20210416230948/https://aheadoftheheard.org/correlation-is-not-causation-and-other-boring-but-important-cautions-for-interpreting-education-research/)
+Jackson, C. 2019. [Correlation is Not Causation and Other Boring but Important Cautions for Interpreting Education Research](http://web.archive.org/web/20210416230948/https://aheadoftheheard.org/correlation-is-not-causation-and-other-boring-but-important-cautions-for-interpreting-education-research/)
 
 Jackson, C. 2019. [Why Is There a Disconnect Between Research and Practice and What Can Be Done About It?](http://web.archive.org/web/20200425034458/https://aheadoftheheard.org/why-some-educators-are-skeptical-of-engaging-in-rigorous-research-and-what-can-be-done-about-it/)
 
