@@ -71,7 +71,7 @@ Jackson, C., Bassok, D., Boulay, B., Kurlaender, M., Page, L. & Tipton, E. (2025
 
 Jackson, C., Ming, N., & Farley-Ripple, L. (2025). [What Teachers Should Know About Education Research](https://www.edweek.org/teaching-learning/opinion-what-teachers-should-know-about-education-research/2025/03) Education Week: Classroom Q & A with Larry Ferlazzo.    
 
-Jackson, C. (2023). [Do Year-Round Schools Work? Three Questions to Ask](https://www.abtassociates.com/insights/perspectives-blog/do-year-round-schools-work-three-questions-to-ask) Abt Associates
+Jackson, C. (2023). [Do Year-Round Schools Work? Three Questions to Ask](https://www.abtassociates.com/insights/perspectives-blog/do-year-round-schools-work-three-questions-to-ask) 
 
 Jackson, C., Harrison, C., Pullen, K.R., & Lowenstein, C. (2021, May 24). [What Education Researchers Can Learn From Teachers](https://www.edweek.org/teaching-learning/opinion-what-education-researchers-can-learn-from-teachers/2021/05) Education Week: Classroom Q & A with Larry Ferlazzo.  
 
