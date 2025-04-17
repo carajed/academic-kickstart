@@ -48,14 +48,3 @@ date_format = "Jan 2006"
   date_end = ""
   description = """The National Center for Analysis of Longitudinal Data in Education Research (CALDER) conducts fantastic policy-relevant research. The Policymakers Council supports this work by providing insight on the needs of policymakers."""
 +++
-
-[[item]]
-  organization = "The Special Educator Workforce: A Research Collaborative (SPARC)"
-  organization_url = "https://sparccenter.org"
-  title = "SPARC Advisory Board"
-  url = ""
-  certificate_url = ""
-  date_start = "2025-02-01"
-  date_end = ""
-  description = """The SPARC Center conducts research and leads systemic change to strengthen the special educator workforce."""
-+++
