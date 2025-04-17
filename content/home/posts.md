@@ -67,7 +67,9 @@ subtitle = ""
  css_class = ""
 +++
 
-Jackson, C., Bassok, D., Boulay, B., Kurlaender, M., Page, L. & Tipton, E. (2025). [Cutting research funding would make education less effective and efficient](https://www.brookings.edu/articles/cutting-research-funding-would-make-education-less-effective-and-efficient/) Brookings
+Jackson, C., Bassok, D., Boulay, B., Kurlaender, M., Page, L. & Tipton, E. (2025). [Cutting research funding would make education less effective and efficient](https://www.brookings.edu/articles/cutting-research-funding-would-make-education-less-effective-and-efficient/) Brookings Institute.
+
+Jackson, C., Ming, N., & Farley-Ripple, L. (2025). [What Teachers Should Know About Education Research](https://www.edweek.org/teaching-learning/opinion-what-teachers-should-know-about-education-research/2025/03) Education Week: Classroom Q & A with Larry Ferlazzo.    
 
 Jackson, C. (2023). [Do Year-Round Schools Work? Three Questions to Ask](https://www.abtassociates.com/insights/perspectives-blog/do-year-round-schools-work-three-questions-to-ask) Abt Associates
 
@@ -77,7 +79,7 @@ Jackson, C., Pershan, M., & Woulfin, S. (2021, May 25). [‘There’s a Lot of P
 
 Jackson, C. 2019. [When It Makes Sense to Experiment on Students — or “The Zone of RCTs”](http://web.archive.org/web/20200105170203/https://aheadoftheheard.org/experimental-economists-just-got-the-nobel-prize-should-education-policy-use-more-experiments-too/)
 
-Jackson, C. 2029 [Teacher Residencies Can Translate into a More Diverse Workforce, But Who Will Bear the Expenses?](http://web.archive.org/web/20191209171706/https://aheadoftheheard.org/teacher-residencies-can-translate-into-a-more-diverse-workforce-but-who-will-bear-the-expenses/)
+Jackson, C. 2019 [Teacher Residencies Can Translate into a More Diverse Workforce, But Who Will Bear the Expenses?](http://web.archive.org/web/20191209171706/https://aheadoftheheard.org/teacher-residencies-can-translate-into-a-more-diverse-workforce-but-who-will-bear-the-expenses/)
 
 Jackson, C. 2019. [Correlation is Not Causation and Other Boring but Important Cautions for Interpreting Education Research](http://web.archive.org/web/20210416230948/https://aheadoftheheard.org/correlation-is-not-causation-and-other-boring-but-important-cautions-for-interpreting-education-research/)
 
