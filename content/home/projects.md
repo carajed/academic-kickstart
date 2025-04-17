@@ -76,11 +76,14 @@ subtitle = ""
 +++
 I sometimes get asked for resources to support the use of research and evidence in education. These are few I've found useful:
 
-[Open SDP](https://opensdp.github.io/) provides data, analyses and tutorials for every stage of the analytic cycle, from preparing and standardizing your data, to conducting analyses and producing visualizations.
+The Association for Education Finance & Policy's [Live Handbook of Education Policy Research](https://livehandbook.org/) provides comprehensive, rigorous, objective, and useful reviews of research.
 
-The [What Works Clearinghouse](https://ies.ed.gov/ncee/wwc/) reviews the existing research on different programs, products, practices, and policies in education.
+Annenberg Institute's [EdExchange](https://annenberg.brown.edu/edexchange) offers numerous resources, including EdResearch for Action briefs that provide evidence-based strategies for improving schools. 
+
+The [What Works Clearinghouse](https://ies.ed.gov/ncee/wwc/) reviews the existing research on different programs, products, practices, and policies in education. [Practice Guides](https://ies.ed.gov/ncee/wwc/practiceguides) on a variety of topics present recommendations for educators to address challenges in their classrooms and schools. 
+
+[Open SDP](https://opensdp.github.io/) provides data, analyses and tutorials for every stage of the analytic cycle, from preparing and standardizing your data, to conducting analyses and producing visualizations.
 
 Urban Institute's [Education Data Explorer](https://educationdata.urban.org/data-explorer/) makes it easy to access and analyze education data from multiple datasets.
 
-My regular reads include Brookings Institution's [Brown Center Chalkboard](https://www.brookings.edu/blog/brown-center-chalkboard/) for blog posts from a variety of education researchers and [Chalkbeat](https://www.chalkbeat.org/) for great journalism on education issues. For a parent and student perspective on education, check out the [Let's K-12 Better](https://www.momofallcapes.com/blog/welcome-to-our-podcast-lets-k12-better) podcast.  
-
+My regular reads include Brookings Institution's [Brown Center Chalkboard](https://www.brookings.edu/blog/brown-center-chalkboard/) for blog posts from a variety of education researchers and [Chalkbeat](https://www.chalkbeat.org/) for great journalism on education issues.  
