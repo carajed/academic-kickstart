@@ -37,16 +37,6 @@ date_format = "Jan 2006"
   date_start = "2014-01-01"
   date_end = ""
   description = """The EEPS program seeks to counter the long-standing, well-documented divide between research and policy in education by connecting early-career scholars wtih education-policy experts."""
-  
-  [[item]]
-  organization = "4.0 Schools"
-  organization_url = "https://collaborative.4pt0.org/about"
-  title = "Visiting Scholar, Measurement & Evaluation Collaborative"
-  url = ""
-  certificate_url = ""
-  date_start = "2019-12-01" 
-  date_end = ""
-  description = """4.0 Schools provides fellowships to support people in piloting and testing ideas to make education better in the United States. The Visiting Scholars support this work by providing coaching and feedback on measures of progress."""
 
 [[item]]
   organization = "The National Center for Analysis of Longitudinal Data in Education Research (CALDER)"
