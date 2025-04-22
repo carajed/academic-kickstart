@@ -14,11 +14,11 @@ role: Research & Evaluation
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: 
+- name: Evidence Use in Education LLC
+  url: https://www.linkedin.com/company/evidence-use-in-education-llc/
   
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in the use of evidence to inform education policies and practices. 
+bio: I am interested in the development and use of evidence to inform education policies and practices. 
 
 interests:
 - Education policy
@@ -51,11 +51,6 @@ social:
 # - icon: github
   # icon_pack: fab
   # link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: static/Jackson_CV_2025.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
