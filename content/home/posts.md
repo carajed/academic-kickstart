@@ -69,9 +69,13 @@ subtitle = ""
 
 Jackson, C., Bassok, D., Boulay, B., Kurlaender, M., Page, L. & Tipton, E. (2025). [Cutting research funding would make education less effective and efficient](https://www.brookings.edu/articles/cutting-research-funding-would-make-education-less-effective-and-efficient/) Brookings Institute.
 
+Jackson, C. (2025). [How Teachers Can Judge the Credibility of Research](https://www.edweek.org/teaching-learning/opinion-how-teachers-can-judge-the-credibility-of-research/2025/03) Education Week: Classroom Q & A with Larry Ferlazzo.    
+
 Jackson, C., Ming, N., & Farley-Ripple, L. (2025). [What Teachers Should Know About Education Research](https://www.edweek.org/teaching-learning/opinion-what-teachers-should-know-about-education-research/2025/03) Education Week: Classroom Q & A with Larry Ferlazzo.    
 
-Jackson, C. (2023). [Do Year-Round Schools Work? Three Questions to Ask](https://www.abtassociates.com/insights/perspectives-blog/do-year-round-schools-work-three-questions-to-ask) 
+Jackson, C. (2024). [Is Your State’s Literacy Approach Aligned with the Evidence?] (https://web.archive.org/web/20250225050136/https://www.abtglobal.com/insights/perspectives/is-your-states-literacy-approach-aligned-with-the-evidence)
+
+Jackson, C. (2023). [Do Year-Round Schools Work? Three Questions to Ask](https://web.archive.org/web/20250225064419/https://www.abtglobal.com/insights/perspectives/do-year-round-schools-work-three-questions-to-ask)
 
 Jackson, C., Harrison, C., Pullen, K.R., & Lowenstein, C. (2021, May 24). [What Education Researchers Can Learn From Teachers](https://www.edweek.org/teaching-learning/opinion-what-education-researchers-can-learn-from-teachers/2021/05) Education Week: Classroom Q & A with Larry Ferlazzo.  
 
