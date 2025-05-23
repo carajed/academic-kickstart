@@ -73,7 +73,7 @@ Jackson, C. (2025). [How Teachers Can Judge the Credibility of Research](https:/
 
 Jackson, C., Ming, N., & Farley-Ripple, L. (2025). [What Teachers Should Know About Education Research](https://www.edweek.org/teaching-learning/opinion-what-teachers-should-know-about-education-research/2025/03) Education Week: Classroom Q & A with Larry Ferlazzo.    
 
-Jackson, C. (2024). [Is Your State’s Literacy Approach Aligned with the Evidence?] (https://web.archive.org/web/20250225050136/https://www.abtglobal.com/insights/perspectives/is-your-states-literacy-approach-aligned-with-the-evidence)
+Jackson, C. (2024). [Is Your State’s Literacy Approach Aligned with the Evidence?](https://web.archive.org/web/20250225050136/https://www.abtglobal.com/insights/perspectives/is-your-states-literacy-approach-aligned-with-the-evidence)
 
 Jackson, C. (2023). [Do Year-Round Schools Work? Three Questions to Ask](https://web.archive.org/web/20250225064419/https://www.abtglobal.com/insights/perspectives/do-year-round-schools-work-three-questions-to-ask)
 
