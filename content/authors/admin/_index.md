@@ -1,6 +1,7 @@
 ---
 # Display name
-title: Cara Jackson
+title: 
+- Cara Jackson
 
 # Username (this should match the folder name)
 authors:
