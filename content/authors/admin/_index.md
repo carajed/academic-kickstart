@@ -14,14 +14,14 @@ role: Research & Evaluation
 
 # Organizations/Affiliations
 organizations:
-- name: Evidence Use in Education LLC
+-  name: Evidence Use in Education LLC
   url: https://www.linkedin.com/company/evidence-use-in-education-llc/
   
 # Short bio (displayed in user profile at end of posts)
 bio: I am interested in the development and use of evidence to inform education policies and practices. 
 
 interests:
-- Education policy
+- Education policy & practice
 - Teacher preparation 
 - School and teacher quality
 
@@ -62,5 +62,5 @@ email: "carajed@gmail.com"
 # - Visitors
 ---
 
-My focus is on helping schools, districts, and education agencies improve the quality of educational opportunities. I've conducted education research and evidence reviews on a variety of topics, including interventions intended to improve student outcomes, policies related to school and teacher quality, and teacher preparation. I'm the immediate past president of the [Association for Education Finance & Policy](https://aefpweb.org/). I also teach Economic Inquiry in Education at [American University](https://www.american.edu/soe/policy/faculty.cfm) and talk about education research on Bluesky @carajackson.bsky.social‬. Earlier in my career, I taught preschool and kindergarten in New York City.
+My focus is on helping schools, districts, and education agencies improve the quality of educational opportunities. I've conducted education research and evidence reviews on a variety of topics, including interventions intended to improve student outcomes, policies related to school and teacher quality, and teacher preparation. I'm the Research Manager of the [Center for Outcomes Based Contracting at the Southern Education Foundation](https://obc.southerneducation.org/) and immediate past president of the [Association for Education Finance & Policy](https://aefpweb.org/). I also teach Economic Inquiry in Education at [American University](https://www.american.edu/soe/policy/faculty.cfm) and talk about education research on Bluesky @carajackson.bsky.social‬. Earlier in my career, I taught preschool and kindergarten in New York City.
 
